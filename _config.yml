@@ -16,13 +16,13 @@
 title: Unofficial OMS CS Slack Group
 description: >
   Official information about the unofficial OMS CS Slack Group.
-baseurl: ""
+baseurl: "/omscs-study/"
 email: areyes37@gatech.edu
-url: "https://github.gatech.edu/pages/omscs-study/welcome"
+url: "https://allanbreyes.github.io"
 
 # Build settings
 markdown: kramdown
-repository: omscs-study/welcome
+repository: allanbreyes/omscs-study
 theme: minima
 exclude:
   - Gemfile

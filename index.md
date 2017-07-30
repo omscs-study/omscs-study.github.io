@@ -53,7 +53,7 @@ Certain channels that have opted in to archiving and have the `@archivebot` user
 
 Contributions are openly welcomed!
 
-1. Open up a [Pull Request](https://github.gatech.edu/omscs-study/welcome/pull/new/master) with a brief description of the change.
+1. Open up a [Pull Request](https://github.com/omscs-study/omscs-study.github.io/pull/new/master) with a brief description of the change.
 2. Post a quick message in `#general`.
 3. Others may vote (:thumbsup: or :thumbsdown:) on it.
 4. After a couple days, a repository admin will merge or close it.

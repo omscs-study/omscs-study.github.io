@@ -26,9 +26,7 @@ Can't get in? **Don't panic.** The following steps are rumored to be useful:
 
 ### File Space
 
-We have limited storage for file shares. If you notice that we've hit the limit early (happens near the end of semesters), please contact an admin (see below).
-
-> We're looking for volunteers to spin up a cron service to run the file purge task. Help appreciated! Thanks.
+We have limited storage for file shares. If you notice that we've hit the limit early (happens near the end of semesters), please contact an admin (see below). Otherwise, a scheduled job, [`file-purger`](https://github.com/omscs-study/file-purger), runs *daily* to delete all files older than *10 days*.
 
 ### Issues
 

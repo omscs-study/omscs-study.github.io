@@ -18,11 +18,12 @@ Can't get in? **Don't panic.** The following steps are rumored to be useful:
 
 ### Community Guidelines
 
-1. Don't share large files, like `zip` and `pdf` files.
-2. Be nice and keep it professional.
-3. Don't use `@everyone` or `@channel`. Your classmates live in different timezones.
-4. Don't violate the [honor code](https://policylibrary.gatech.edu/student-affairs/academic-honor-code). Your TA's are probably in the same channel.
-5. We're on the free tier, so we have limited integrations (10). Chances are, your integration request to add all cat pictures to a private Dropbox folder will be rejected. If it doesn't help the whole community, it likely doesn't deserve a spot in the Top 10.
+1. **Don't share private files.**
+2. Don't share large files, like `zip` and `pdf` files.
+3. Be nice and keep it professional.
+4. Don't use `@everyone` or `@channel`. Your classmates live in different timezones.
+5. Don't violate the [honor code](https://policylibrary.gatech.edu/student-affairs/academic-honor-code). Your TA's are probably in the same channel.
+6. We're on the free tier, so we have limited integrations (10). Chances are, your integration request to add all cat pictures to a private Dropbox folder will be rejected. If it doesn't help the whole community, it likely doesn't deserve a spot in the Top 10.
 
 ### File Space
 

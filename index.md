@@ -45,8 +45,9 @@ Certain channels that have opted in to archiving and have the `@archivebot` user
 
 ### Useful Links
 
-- [Slack Archive](https://omscs-study.slackarchive.io)
+- [GT Registrar Calendar](http://www.registrar.gatech.edu/calendar/)
 - [OMSCentral](https://omscentral.com)
+- [Slack Archive](https://omscs-study.slackarchive.io)
 
 ### Contributing
 

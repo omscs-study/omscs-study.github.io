@@ -29,6 +29,10 @@ Can't get in? **Don't panic.** The following steps are rumored to be useful:
 
 We have limited storage for file shares. If you notice that we've hit the limit early (happens near the end of semesters), please contact an admin (see below). Otherwise, a scheduled job, [`file-purger`](https://github.com/omscs-study/file-purger), runs *daily* to delete all files older than *10 days*.
 
+### `#general`, or lack thereof
+
+Due to the very large community, we've changed the main, default channel to `#announcements`, which is read-only, and reserved for community announcements. The "general" channel you may join (or leave) is `#lobby`.
+
 ### Issues
 
 We take a pretty light hand towards administration and moderation, but if you
@@ -36,6 +40,9 @@ have any issues, e.g. harassment or abuse, you can contact the admins:
 
 - `@allan`
 - `@arkaaito`
+- `@csaden`
+- `@fsgeek`
+- `@rcabrera`
 
 > If you encounter any issues with [Honor Code](https://policylibrary.gatech.edu/student-affairs/academic-honor-code) violations, it's recommended that you contact your course staff directly.
 
@@ -54,6 +61,6 @@ Certain channels that have opted in to archiving and have the `@archivebot` user
 Contributions are openly welcomed!
 
 1. Open up a [Pull Request](https://github.com/omscs-study/omscs-study.github.io/pull/new/master) with a brief description of the change.
-2. Post a quick message in `#general`.
+2. Post a quick message in `#lobby`.
 3. Others may vote (:thumbsup: or :thumbsdown:) on it.
 4. After a couple days, a repository admin will merge or close it.
